@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Teacher Dashboard</title>
+
+    <link rel="stylesheet" href="../css/style.css">
+
+</head>
+
+<body>
+
+<div class="container dashboard-container">
+
+    <h1>Teacher Dashboard</h1>
+
+    <div class="login-box dashboard-login">
+
+        <input type="password" id="dashPassword" placeholder="Dashboard Password">
+
+        <select id="dashChapter">
+            <option value="">All Chapters</option>
+        </select>
+
+        <button id="loadResultsBtn">Load Results</button>
+
+    </div>
+
+    <div id="dashError" class="dash-error"></div>
+
+    <div id="dashSummary"></div>
+
+    <div id="dashStats"></div>
+
+    <div id="dashTableWrap"></div>
+
+</div>
+
+<script src="../data/config.js"></script>
+
+<script src="../js/sheets.js"></script>
+
+<script src="../js/teacher-dashboard.js"></script>
+
+</body>
+
+</html>

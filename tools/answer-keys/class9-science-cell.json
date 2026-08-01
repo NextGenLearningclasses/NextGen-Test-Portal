@@ -1,0 +1,245 @@
+{
+  "chapterKey": "class9|science|cell",
+  "answers": {
+    "1": {
+      "answer": "C",
+      "explanation": "Cells form the body's structure and perform all life functions."
+    },
+    "2": {
+      "answer": "B",
+      "explanation": "A unicellular organism performs all life activities within one cell."
+    },
+    "3": {
+      "answer": "B",
+      "explanation": "Resolution determines clarity between closely placed structures."
+    },
+    "4": {
+      "answer": "B",
+      "explanation": "10 × 40 = 400×"
+    },
+    "5": {
+      "answer": "C",
+      "explanation": "6000 ÷ 30 = 200 μm"
+    },
+    "6": {
+      "answer": "C",
+      "explanation": "Hooke observed tiny box-like compartments in cork."
+    },
+    "7": {
+      "answer": "C",
+      "explanation": "Ribosomes are too small to be resolved using a light microscope."
+    },
+    "8": {
+      "answer": "B",
+      "explanation": "Selective permeability regulates movement of substances."
+    },
+    "9": {
+      "answer": "B",
+      "explanation": "Water moves into the cell through osmosis."
+    },
+    "10": {
+      "answer": "C",
+      "explanation": "Only osmosis requires a selectively permeable membrane."
+    },
+    "11": {
+      "answer": "B",
+      "explanation": "Water moves out through osmosis."
+    },
+    "12": {
+      "answer": "B",
+      "explanation": "Distilled water is hypotonic, while salt solution is hypertonic."
+    },
+    "13": {
+      "answer": "B",
+      "explanation": "Lipids can move laterally within the membrane."
+    },
+    "14": {
+      "answer": "C",
+      "explanation": "Rigid cell wall prevents collapse."
+    },
+    "15": {
+      "answer": "C",
+      "explanation": "Animal cells lack cell walls."
+    },
+    "16": {
+      "answer": "B",
+      "explanation": "Rigid walls would reduce flexibility."
+    },
+    "17": {
+      "answer": "C",
+      "explanation": "Prokaryotes lack membrane-bound nuclei."
+    },
+    "18": {
+      "answer": "C",
+      "explanation": "Golgi apparatus and membrane-bound nucleus are eukaryotic features."
+    },
+    "19": {
+      "answer": "B",
+      "explanation": "Rough ER synthesizes proteins for secretion."
+    },
+    "20": {
+      "answer": "C",
+      "explanation": "Ribosomes are the sites of protein synthesis."
+    },
+    "21": {
+      "answer": "C",
+      "explanation": "Genes are segments of DNA; DNA forms chromosomes, which are located in the nucleus."
+    },
+    "22": {
+      "answer": "B",
+      "explanation": "The nucleolus synthesizes ribosomal subunits."
+    },
+    "23": {
+      "answer": "B",
+      "explanation": "Chromatin condenses into visible chromosomes before cell division."
+    },
+    "24": {
+      "answer": "B",
+      "explanation": "Muscle cells require large amounts of ATP."
+    },
+    "25": {
+      "answer": "C",
+      "explanation": "Both are semi-autonomous organelles."
+    },
+    "26": {
+      "answer": "B",
+      "explanation": "ATP powers energy-dependent activities."
+    },
+    "27": {
+      "answer": "B",
+      "explanation": "SER synthesizes lipids and some hormones."
+    },
+    "28": {
+      "answer": "B",
+      "explanation": "Digestive enzymes are proteins."
+    },
+    "29": {
+      "answer": "B",
+      "explanation": "Golgi modifies, packages and transports proteins."
+    },
+    "30": {
+      "answer": "B",
+      "explanation": "Golgi packages proteins into vesicles."
+    },
+    "31": {
+      "answer": "B",
+      "explanation": "Lysosomes digest unwanted cellular material."
+    },
+    "32": {
+      "answer": "B",
+      "explanation": "Lysosomes recycle worn-out organelles."
+    },
+    "33": {
+      "answer": "C",
+      "explanation": "Chloroplast contains chlorophyll."
+    },
+    "34": {
+      "answer": "B",
+      "explanation": "Chromoplasts contain red pigments."
+    },
+    "35": {
+      "answer": "B",
+      "explanation": "Leucoplasts store starch, oils and proteins."
+    },
+    "36": {
+      "answer": "B",
+      "explanation": "Water-filled vacuoles keep cells turgid."
+    },
+    "37": {
+      "answer": "A",
+      "explanation": "The large vacuole stores cell sap and maintains rigidity."
+    },
+    "38": {
+      "answer": "A",
+      "explanation": "Every living cell requires proteins."
+    },
+    "39": {
+      "answer": "C",
+      "explanation": "These are characteristics of prokaryotic bacteria."
+    },
+    "40": {
+      "answer": "B",
+      "explanation": "Mitochondria can still generate ATP by cellular respiration if organic food is available, but without chloroplasts the cell cannot photosynthesize."
+    },
+    "41": {
+      "answer": "C",
+      "explanation": "Without proteins, no organelle can maintain its functions, causing progressive cellular failure."
+    },
+    "42": {
+      "answer": "C",
+      "explanation": "Mitochondria generate ATP during cellular respiration."
+    },
+    "43": {
+      "answer": "C",
+      "explanation": "These structures together identify a plant cell."
+    },
+    "44": {
+      "answer": "C",
+      "explanation": "Presence of nucleoid identifies a prokaryote."
+    },
+    "45": {
+      "answer": "A",
+      "explanation": "Their own DNA and ribosomes allow limited protein synthesis."
+    },
+    "46": {
+      "answer": "A",
+      "explanation": "Rigid cell wall prevents excessive expansion."
+    },
+    "47": {
+      "answer": "B",
+      "explanation": "Water movement depends on concentration gradient."
+    },
+    "48": {
+      "answer": "B",
+      "explanation": "Golgi modifies and packages secretory proteins."
+    },
+    "49": {
+      "answer": "A",
+      "explanation": "Damaged components cannot be recycled."
+    },
+    "50": {
+      "answer": "A",
+      "explanation": "Proteins follow the secretory pathway through RER and Golgi."
+    },
+    "51": {
+      "answer": "B",
+      "explanation": "Respiration can continue using supplied glucose."
+    },
+    "52": {
+      "answer": "B",
+      "explanation": "Loss of nucleus creates more space for haemoglobin."
+    },
+    "53": {
+      "answer": "C",
+      "explanation": "Mature RBCs lose their nucleus; bacteria never possess a membrane-bound nucleus."
+    },
+    "54": {
+      "answer": "B",
+      "explanation": "SER is specialized for lipid synthesis and metabolism."
+    },
+    "55": {
+      "answer": "B",
+      "explanation": "Chloroplast stores solar energy in glucose, whereas mitochondria release energy from glucose."
+    },
+    "56": {
+      "answer": "B",
+      "explanation": "Cristae are characteristic of mitochondria."
+    },
+    "57": {
+      "answer": "B",
+      "explanation": "Loss of water by osmosis causes plasmolysis in plant cells."
+    },
+    "58": {
+      "answer": "B",
+      "explanation": "Compartmentalization improves efficiency and regulation of multiple cellular activities."
+    },
+    "59": {
+      "answer": "B",
+      "explanation": "Existing ATP reserves allow short-term protein synthesis, but mitochondria are the primary ATP source."
+    },
+    "60": {
+      "answer": "B",
+      "explanation": "The presence of chloroplasts, mitochondria, and a membrane-bound nucleus identifies it as a photosynthetic unicellular eukaryote (such as certain algae)."
+    }
+  }
+}

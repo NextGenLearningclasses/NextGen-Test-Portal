@@ -1,0 +1,1554 @@
+Q1 (Conceptual)
+
+Which statement best explains why the cell is called the structural and functional unit of life?
+
+A. Every tissue contains only one type of cell.
+
+B. Every living organism begins life as a single cell.
+
+C. Cells build the body and perform all essential life processes.
+
+D. Cells are the smallest objects visible under a microscope.
+
+Correct Answer
+
+✅ C
+
+Explanation
+
+Cells form the body's structure and perform all life functions.
+
+Bloom: Understand
+
+Difficulty: Medium
+
+Q2 (Application)
+
+A scientist discovers a new organism consisting of only one cell that independently carries out nutrition, respiration, excretion and reproduction.
+
+Which conclusion is most appropriate?
+
+A. It cannot survive independently.
+
+B. The cell functions as a complete organism.
+
+C. The organism lacks cytoplasm.
+
+D. It must be a virus.
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+A unicellular organism performs all life activities within one cell.
+
+Bloom: Apply
+
+Difficulty: Medium
+
+Q3 (Conceptual)
+
+A microscope increases the apparent size of an object. Which property determines how clearly two nearby structures can be distinguished?
+
+A. Magnification
+
+B. Resolution
+
+C. Contrast only
+
+D. Field of view
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Resolution determines clarity between closely placed structures.
+
+Bloom: Understand
+
+Difficulty: Hard
+
+Q4 (Numerical)
+
+A microscope has a 10× eyepiece and a 40× objective lens.
+
+Its total magnification is
+
+A. 50×
+
+B. 400×
+
+C. 4×
+
+D. 100×
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+10 × 40 = 400×
+
+Bloom: Apply
+
+Difficulty: Medium
+
+Q5 (Numerical)
+
+The diameter of the microscope's field of view is 6000 μm.
+
+Thirty cells fit exactly across the diameter.
+
+The approximate size of one cell is
+
+A. 20 μm
+
+B. 60 μm
+
+C. 200 μm
+
+D. 300 μm
+
+Correct Answer
+
+✅ C
+
+Explanation
+
+6000 ÷ 30 = 200 μm
+
+Bloom: Apply
+
+Difficulty: Medium
+
+Q6 (Conceptual)
+
+Which observation made by Robert Hooke eventually led to the term "cell"?
+
+A. Living bacteria
+
+B. Blood cells
+
+C. Cork compartments
+
+D. Onion peel
+
+Correct Answer
+
+✅ C
+
+Explanation
+
+Hooke observed tiny box-like compartments in cork.
+
+Bloom: Remember
+
+Difficulty: Medium
+
+Q7 (Application)
+
+A scientist wishes to observe ribosomes clearly.
+
+Which instrument would be most suitable?
+
+A. Hand lens
+
+B. Compound microscope
+
+C. Electron microscope
+
+D. Magnifying glass
+
+Correct Answer
+
+✅ C
+
+Explanation
+
+Ribosomes are too small to be resolved using a light microscope.
+
+Bloom: Apply
+
+Difficulty: Hard
+
+Q8 (Conceptual)
+
+Which property of the plasma membrane is directly responsible for maintaining different chemical compositions inside and outside the cell?
+
+A. Elasticity
+
+B. Selective permeability
+
+C. Thickness
+
+D. Rigidity
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Selective permeability regulates movement of substances.
+
+Bloom: Understand
+
+Difficulty: Medium
+
+Q9 (Application)
+
+A red blood cell is placed in pure water.
+
+Initially, water enters the cell.
+
+The reason is
+
+A. Active transport
+
+B. Osmosis
+
+C. Diffusion of proteins
+
+D. Endocytosis
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Water moves into the cell through osmosis.
+
+Bloom: Apply
+
+Difficulty: Hard
+
+Q10 (Conceptual)
+
+Which statement correctly differentiates diffusion from osmosis?
+
+A. Both require membranes.
+
+B. Diffusion involves only water.
+
+C. Osmosis requires a selectively permeable membrane.
+
+D. Diffusion occurs only in living cells.
+
+Correct Answer
+
+✅ C
+
+Explanation
+
+Only osmosis requires a selectively permeable membrane.
+
+Bloom: Analyze
+
+Difficulty: Hard
+
+Q11 (Application)
+
+A potato slice kept in concentrated sugar solution loses weight because
+
+A. Sugar enters the cells.
+
+B. Water leaves the cells.
+
+C. Starch dissolves.
+
+D. Cell wall breaks.
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Water moves out through osmosis.
+
+Bloom: Apply
+
+Difficulty: Medium
+
+Q12 (HOTS)
+
+Two identical plant cells are kept separately.
+
+Cell X → distilled water
+
+Cell Y → concentrated salt solution
+
+Which statement is correct?
+
+A. Both shrink equally.
+
+B. X gains water; Y loses water.
+
+C. X loses water; Y gains water.
+
+D. Neither changes.
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Distilled water is hypotonic, while salt solution is hypertonic.
+
+Bloom: Analyze
+
+Difficulty: Hard
+
+Q13 (Conceptual)
+
+The fluid nature of the plasma membrane is mainly due to
+
+A. Cellulose
+
+B. Lipid molecules moving sideways
+
+C. DNA
+
+D. Cell sap
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Lipids can move laterally within the membrane.
+
+Bloom: Understand
+
+Difficulty: Hard
+
+Q14 (Application)
+
+A plant cell placed in concentrated sugar solution does not collapse completely because
+
+A. Cytoplasm is rigid.
+
+B. Chloroplast supports it.
+
+C. Cell wall maintains shape.
+
+D. Vacuole produces water.
+
+Correct Answer
+
+✅ C
+
+Explanation
+
+Rigid cell wall prevents collapse.
+
+Bloom: Apply
+
+Difficulty: Medium
+
+Q15 (Conceptual)
+
+Which feature is common to bacteria, fungi and plants but absent in animal cells?
+
+A. Cell membrane
+
+B. Cytoplasm
+
+C. Cell wall
+
+D. Ribosomes
+
+Correct Answer
+
+✅ C
+
+Explanation
+
+Animal cells lack cell walls.
+
+Bloom: Remember
+
+Difficulty: Medium
+
+Q16 (Application)
+
+Which property of animal cells would be most affected if they suddenly developed rigid cell walls?
+
+A. Protein synthesis
+
+B. Flexibility of movement
+
+C. DNA replication
+
+D. ATP production
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Rigid walls would reduce flexibility.
+
+Bloom: Analyze
+
+Difficulty: Hard
+
+Q17 (Conceptual)
+
+Which feature immediately identifies a bacterial cell as prokaryotic?
+
+A. Presence of ribosomes
+
+B. Presence of cytoplasm
+
+C. Absence of membrane-bound nucleus
+
+D. Presence of plasma membrane
+
+Correct Answer
+
+✅ C
+
+Explanation
+
+Prokaryotes lack membrane-bound nuclei.
+
+Bloom: Understand
+
+Difficulty: Medium
+
+Q18 (Application)
+
+Which combination is found only in eukaryotic cells?
+
+A. Cytoplasm + ribosomes
+
+B. Plasma membrane + DNA
+
+C. Membrane-bound nucleus + Golgi apparatus
+
+D. Cell membrane + nucleoid
+
+Correct Answer
+
+✅ C
+
+Explanation
+
+Golgi apparatus and membrane-bound nucleus are eukaryotic features.
+
+Bloom: Analyze
+
+Difficulty: Hard
+
+Q19 (Conceptual)
+
+Which organelle would be most abundant in cells actively secreting digestive enzymes?
+
+A. Smooth ER
+
+B. Rough ER
+
+C. Chromoplast
+
+D. Vacuole
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Rough ER synthesizes proteins for secretion.
+
+Bloom: Apply
+
+Difficulty: Hard
+
+Q20 (HOTS)
+
+A mutation destroys all ribosomes inside a cell while other organelles remain normal.
+
+Which activity would stop first?
+
+A. ATP production
+
+B. Water storage
+
+C. Protein synthesis
+
+D. Osmosis
+
+Correct Answer
+
+✅ C
+
+Explanation
+
+Ribosomes are the sites of protein synthesis.
+
+Bloom: Evaluate
+
+Difficulty: HOTS
+
+Q21 (Conceptual)
+
+Which sequence correctly represents the flow of genetic information inside a eukaryotic cell?
+
+A. Gene → Chromosome → DNA → Nucleus
+
+B. DNA → Gene → Chromosome → Nucleus
+
+C. Gene → DNA → Chromosome → Nucleus
+
+D. Chromosome → DNA → Gene → Nucleus
+
+Correct Answer
+
+✅ C
+
+Explanation
+
+Genes are segments of DNA; DNA forms chromosomes, which are located in the nucleus.
+
+Bloom: Understand
+
+Difficulty: Hard
+
+Q22 (Application)
+
+A cell loses its nucleolus but retains its nucleus.
+
+Which process will be affected first?
+
+A. ATP synthesis
+
+B. Ribosome formation
+
+C. Photosynthesis
+
+D. Osmosis
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+The nucleolus synthesizes ribosomal subunits.
+
+Bloom: Apply
+
+Difficulty: Hard
+
+Q23 (Conceptual)
+
+Chromatin converts into chromosomes mainly during
+
+A. Photosynthesis
+
+B. Cell division
+
+C. Protein synthesis
+
+D. Respiration
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Chromatin condenses into visible chromosomes before cell division.
+
+Bloom: Remember
+
+Difficulty: Medium
+
+Q24 (Application)
+
+Which cell would most likely contain a large number of mitochondria?
+
+A. Fat storage cell
+
+B. Muscle cell
+
+C. Dead cork cell
+
+D. Onion epidermal cell
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Muscle cells require large amounts of ATP.
+
+Bloom: Apply
+
+Difficulty: Hard
+
+Q25 (Conceptual)
+
+Which organelle possesses both its own DNA and ribosomes?
+
+A. Golgi apparatus only
+
+B. Lysosome
+
+C. Mitochondria and chloroplast
+
+D. Vacuole
+
+Correct Answer
+
+✅ C
+
+Explanation
+
+Both are semi-autonomous organelles.
+
+Bloom: Understand
+
+Difficulty: Medium
+
+Q26 (Application)
+
+A scientist blocks ATP production inside a cell.
+
+Which activity will be affected most immediately?
+
+A. Passive diffusion
+
+B. Energy-requiring cellular processes
+
+C. Osmosis
+
+D. Cell wall formation
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+ATP powers energy-dependent activities.
+
+Bloom: Analyze
+
+Difficulty: Hard
+
+Q27 (Conceptual)
+
+Smooth Endoplasmic Reticulum is mainly associated with
+
+A. Protein synthesis
+
+B. Fat synthesis
+
+C. ATP production
+
+D. DNA replication
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+SER synthesizes lipids and some hormones.
+
+Bloom: Remember
+
+Difficulty: Medium
+
+Q28 (Application)
+
+Pancreatic cells produce digestive enzymes continuously.
+
+Which organelle would be highly developed?
+
+A. Smooth ER
+
+B. Rough ER
+
+C. Vacuole
+
+D. Chromoplast
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Digestive enzymes are proteins.
+
+Bloom: Apply
+
+Difficulty: Medium
+
+Q29 (Conceptual)
+
+Golgi apparatus mainly functions in
+
+A. Energy production
+
+B. Packaging and secretion
+
+C. DNA storage
+
+D. Cell division
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Golgi modifies, packages and transports proteins.
+
+Bloom: Remember
+
+Difficulty: Medium
+
+Q30 (Application)
+
+A newly synthesized protein has reached the Golgi apparatus.
+
+The next likely event is
+
+A. DNA replication
+
+B. Packaging into vesicles
+
+C. ATP synthesis
+
+D. Cell division
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Golgi packages proteins into vesicles.
+
+Bloom: Apply
+
+Difficulty: Hard
+
+Q31 (Conceptual)
+
+Which organelle is called the "clean-up system" of the cell?
+
+A. Vacuole
+
+B. Lysosome
+
+C. Ribosome
+
+D. Chloroplast
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Lysosomes digest unwanted cellular material.
+
+Bloom: Remember
+
+Difficulty: Medium
+
+Q32 (HOTS)
+
+If lysosomes suddenly stop functioning, which situation is most likely?
+
+A. Protein synthesis increases.
+
+B. Damaged organelles accumulate.
+
+C. ATP production doubles.
+
+D. Cell membrane disappears.
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Lysosomes recycle worn-out organelles.
+
+Bloom: Analyze
+
+Difficulty: HOTS
+
+Q33 (Conceptual)
+
+Which plastid contains chlorophyll?
+
+A. Chromoplast
+
+B. Leucoplast
+
+C. Chloroplast
+
+D. Amyloplast
+
+Correct Answer
+
+✅ C
+
+Explanation
+
+Chloroplast contains chlorophyll.
+
+Bloom: Remember
+
+Difficulty: Medium
+
+Q34 (Application)
+
+A ripe tomato changes from green to red mainly because
+
+A. Mitochondria increase.
+
+B. Chloroplasts convert into chromoplasts.
+
+C. Vacuoles enlarge.
+
+D. Ribosomes multiply.
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Chromoplasts contain red pigments.
+
+Bloom: Apply
+
+Difficulty: Hard
+
+Q35 (Conceptual)
+
+Leucoplasts mainly function in
+
+A. Protein secretion
+
+B. Food storage
+
+C. Photosynthesis
+
+D. Respiration
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Leucoplasts store starch, oils and proteins.
+
+Bloom: Remember
+
+Difficulty: Medium
+
+Q36 (Application)
+
+A plant remains upright mainly because
+
+A. Chloroplasts produce ATP.
+
+B. Large vacuoles maintain turgor pressure.
+
+C. Ribosomes synthesize cellulose.
+
+D. Golgi apparatus stores water.
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Water-filled vacuoles keep cells turgid.
+
+Bloom: Apply
+
+Difficulty: Hard
+
+Q37 (Assertion–Reason)
+
+Assertion (A):
+Plant cells generally possess one large central vacuole.
+
+Reason (R):
+The vacuole stores water and helps maintain turgor pressure.
+
+A. Both A and R are true, and R correctly explains A.
+
+B. Both A and R are true, but R is not the correct explanation.
+
+C. A is true but R is false.
+
+D. A is false but R is true.
+
+Correct Answer
+
+✅ A
+
+Explanation
+
+The large vacuole stores cell sap and maintains rigidity.
+
+Bloom: Analyze
+
+Difficulty: Hard
+
+Q38 (Assertion–Reason)
+
+Assertion (A):
+All cells possess ribosomes.
+
+Reason (R):
+Protein synthesis occurs in every living cell.
+
+A. Both A and R are true, and R explains A.
+
+B. Both are true but unrelated.
+
+C. Assertion true, Reason false.
+
+D. Assertion false, Reason true.
+
+Correct Answer
+
+✅ A
+
+Explanation
+
+Every living cell requires proteins.
+
+Bloom: Analyze
+
+Difficulty: Hard
+
+Q39 (Case-Based)
+
+A researcher discovers a microscopic organism with the following characteristics:
+
+Circular DNA
+No membrane-bound nucleus
+Ribosomes present
+Cell wall present
+
+Which organism is most likely?
+
+A. Amoeba
+
+B. Onion cell
+
+C. Bacterium
+
+D. Human cheek cell
+
+Correct Answer
+
+✅ C
+
+Explanation
+
+These are characteristics of prokaryotic bacteria.
+
+Bloom: Analyze
+
+Difficulty: Hard
+
+Q40 (HOTS)
+
+A mutant plant cell completely lacks chloroplasts but contains normal mitochondria.
+
+Which statement is correct?
+
+A. It cannot produce ATP.
+
+B. It cannot perform photosynthesis but can still respire if supplied with food.
+
+C. It cannot divide.
+
+D. It loses its nucleus.
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Mitochondria can still generate ATP by cellular respiration if organic food is available, but without chloroplasts the cell cannot photosynthesize.
+
+Bloom: Evaluate
+
+Difficulty: HOTS
+
+Q41 (HOTS)
+
+A scientist develops a mutant cell in which all ribosomes are removed, but every other organelle remains normal.
+
+Which sequence of events is most likely?
+
+A. ATP production immediately stops.
+
+B. DNA replication stops first.
+
+C. Protein synthesis stops, followed by gradual failure of most organelles.
+
+D. Osmosis stops immediately.
+
+Correct Answer
+
+✅ C
+
+Explanation
+
+Without proteins, no organelle can maintain its functions, causing progressive cellular failure.
+
+Bloom: Evaluate
+
+Difficulty: HOTS
+
+Q42 (Application)
+
+Which organelle is directly responsible for supplying ATP required during muscle contraction?
+
+A. Golgi apparatus
+
+B. Vacuole
+
+C. Mitochondrion
+
+D. Chloroplast
+
+Correct Answer
+
+✅ C
+
+Explanation
+
+Mitochondria generate ATP during cellular respiration.
+
+Bloom: Apply
+
+Difficulty: Medium
+
+Q43 (Diagram-Based)
+
+A cell diagram shows:
+
+Cell wall
+Chloroplast
+Large central vacuole
+Nucleus
+
+The cell is most likely
+
+A. Animal cell
+
+B. Bacterial cell
+
+C. Plant cell
+
+D. Virus
+
+Correct Answer
+
+✅ C
+
+Explanation
+
+These structures together identify a plant cell.
+
+Bloom: Analyze
+
+Difficulty: Medium
+
+Q44 (Diagram-Based)
+
+A cell diagram contains
+
+Plasma membrane
+Cytoplasm
+Nucleoid
+Ribosomes
+Cell wall
+
+No membrane-bound nucleus is visible.
+
+The cell belongs to
+
+A. Fungus
+
+B. Plant
+
+C. Bacterium
+
+D. Animal
+
+Correct Answer
+
+✅ C
+
+Explanation
+
+Presence of nucleoid identifies a prokaryote.
+
+Bloom: Analyze
+
+Difficulty: Hard
+
+Q45 (Assertion–Reason)
+
+Assertion (A):
+
+Mitochondria and chloroplasts possess their own DNA.
+
+Reason (R):
+
+They are capable of synthesizing some of their own proteins.
+
+A. Both A and R are true, and R correctly explains A.
+
+B. Both are true, but R is not the correct explanation.
+
+C. A true, R false.
+
+D. A false, R true.
+
+Correct Answer
+
+✅ A
+
+Explanation
+
+Their own DNA and ribosomes allow limited protein synthesis.
+
+Bloom: Analyze
+
+Difficulty: Hard
+
+Q46 (Assertion–Reason)
+
+Assertion (A):
+
+Animal cells burst more easily than plant cells in hypotonic solutions.
+
+Reason (R):
+
+Plant cells possess a rigid cell wall.
+
+A. Both true and R explains A.
+
+B. Both true but unrelated.
+
+C. Assertion true, Reason false.
+
+D. Assertion false, Reason true.
+
+Correct Answer
+
+✅ A
+
+Explanation
+
+Rigid cell wall prevents excessive expansion.
+
+Bloom: Analyze
+
+Difficulty: Hard
+
+Q47 (Case Study)
+
+A laboratory technician places three identical cells in different solutions.
+
+Cell A → Isotonic
+
+Cell B → Hypotonic
+
+Cell C → Hypertonic
+
+Which observation is correct?
+
+A. A swells, B unchanged, C shrinks
+
+B. A unchanged, B swells, C shrinks
+
+C. A shrinks, B swells, C unchanged
+
+D. All remain unchanged
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Water movement depends on concentration gradient.
+
+Bloom: Apply
+
+Difficulty: Medium
+
+Q48 (Case Study)
+
+A disease damages the Golgi apparatus in secretory cells.
+
+Which function will be most affected?
+
+A. ATP generation
+
+B. Protein packaging and secretion
+
+C. Photosynthesis
+
+D. DNA replication
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Golgi modifies and packages secretory proteins.
+
+Bloom: Analyze
+
+Difficulty: Hard
+
+Q49 (HOTS)
+
+A cell lacks lysosomes but possesses all other organelles.
+
+After several weeks, the cell is expected to
+
+A. accumulate damaged organelles
+
+B. lose DNA
+
+C. stop respiration
+
+D. lose chlorophyll
+
+Correct Answer
+
+✅ A
+
+Explanation
+
+Damaged components cannot be recycled.
+
+Bloom: Evaluate
+
+Difficulty: HOTS
+
+Q50 (Concept Integration)
+
+Which sequence correctly traces the pathway of a secretory protein?
+
+A. Ribosome → Rough ER → Golgi → Vesicle → Cell membrane
+
+B. Golgi → Ribosome → Nucleus → Cell membrane
+
+C. SER → Golgi → Ribosome
+
+D. Nucleus → Vacuole → Cell membrane
+
+Correct Answer
+
+✅ A
+
+Explanation
+
+Proteins follow the secretory pathway through RER and Golgi.
+
+Bloom: Analyze
+
+Difficulty: Hard
+
+Q51 (HOTS)
+
+A mutant plant cannot form chloroplasts but receives glucose externally.
+
+Which statement is correct?
+
+A. It cannot survive.
+
+B. It cannot photosynthesize but can respire.
+
+C. It cannot produce ATP.
+
+D. It cannot divide.
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Respiration can continue using supplied glucose.
+
+Bloom: Evaluate
+
+Difficulty: HOTS
+
+Q52 (Application)
+
+Why are mature human RBCs enucleate?
+
+A. To increase ATP production
+
+B. To increase haemoglobin-carrying space
+
+C. To perform photosynthesis
+
+D. To produce more proteins
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Loss of nucleus creates more space for haemoglobin.
+
+Bloom: Understand
+
+Difficulty: Medium
+
+Q53 (Conceptual)
+
+Which structure is absent in both mature human RBCs and bacteria?
+
+A. Cell membrane
+
+B. Cytoplasm
+
+C. Membrane-bound nucleus
+
+D. Ribosomes
+
+Correct Answer
+
+✅ C
+
+Explanation
+
+Mature RBCs lose their nucleus; bacteria never possess a membrane-bound nucleus.
+
+Bloom: Analyze
+
+Difficulty: Hard
+
+Q54 (Application)
+
+Which organelle would be most abundant in liver cells involved in lipid metabolism?
+
+A. Rough ER
+
+B. Smooth ER
+
+C. Ribosomes only
+
+D. Lysosomes
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+SER is specialized for lipid synthesis and metabolism.
+
+Bloom: Apply
+
+Difficulty: Hard
+
+Q55 (Concept Integration)
+
+Which pair performs opposite biological roles?
+
+A. Ribosome – Golgi
+
+B. Chloroplast – Mitochondria
+
+C. Cell wall – Cell membrane
+
+D. Nucleus – Cytoplasm
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Chloroplast stores solar energy in glucose, whereas mitochondria release energy from glucose.
+
+Bloom: Analyze
+
+Difficulty: Hard
+
+Q56 (Diagram-Based)
+
+A diagram shows an organelle with
+
+Double membrane
+Inner folds called cristae
+DNA
+Ribosomes
+
+Identify it.
+
+A. Chloroplast
+
+B. Mitochondrion
+
+C. Nucleus
+
+D. Lysosome
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Cristae are characteristic of mitochondria.
+
+Bloom: Understand
+
+Difficulty: Medium
+
+Q57 (Case Study)
+
+A student accidentally uses concentrated sugar solution while preparing an onion peel slide.
+
+After 30 minutes he observes the cell membrane pulling away from the cell wall.
+
+The process observed is
+
+A. Diffusion
+
+B. Plasmolysis
+
+C. Cytokinesis
+
+D. Endocytosis
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Loss of water by osmosis causes plasmolysis in plant cells.
+
+Bloom: Analyze
+
+Difficulty: Hard
+
+Q58 (HOTS)
+
+Which statement best explains why multicellular organisms require membrane-bound organelles whereas prokaryotes do not?
+
+A. Organelles increase cell size only.
+
+B. Complex organisms require compartmentalization for efficient simultaneous biochemical processes.
+
+C. Organelles store only DNA.
+
+D. Prokaryotes lack cytoplasm.
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Compartmentalization improves efficiency and regulation of multiple cellular activities.
+
+Bloom: Evaluate
+
+Difficulty: HOTS
+
+Q59 (Integrated Concept)
+
+During a laboratory experiment, ATP production stops, but protein synthesis continues briefly.
+
+Which organelle was most likely damaged first?
+
+A. Golgi apparatus
+
+B. Mitochondrion
+
+C. Nucleus
+
+D. Chloroplast
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+Existing ATP reserves allow short-term protein synthesis, but mitochondria are the primary ATP source.
+
+Bloom: Analyze
+
+Difficulty: Hard
+
+Q60 (Grand HOTS)
+
+A newly discovered organism has the following features:
+
+Single cell
+Cell wall
+Chloroplast
+Large vacuole
+Membrane-bound nucleus
+Mitochondria
+Performs photosynthesis
+
+Which conclusion is most appropriate?
+
+A. It is a bacterium.
+
+B. It is a unicellular eukaryotic photosynthetic organism.
+
+C. It is an animal cell.
+
+D. It is a virus.
+
+Correct Answer
+
+✅ B
+
+Explanation
+
+The presence of chloroplasts, mitochondria, and a membrane-bound nucleus identifies it as a photosynthetic unicellular eukaryote (such as certain algae).
+
+Bloom: Evaluate
+
+Difficulty: HOTS

@@ -1,0 +1,796 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+
+    font-family:Arial, Helvetica, sans-serif;
+
+    background:linear-gradient(135deg,#0f172a,#2563eb);
+
+    color:white;
+
+    min-height:100vh;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+}
+
+.container{
+
+    width:90%;
+
+    max-width:900px;
+
+    text-align:center;
+
+}
+
+h1{
+
+    font-size:60px;
+
+    margin-bottom:10px;
+
+}
+
+h2{
+
+    font-weight:300;
+
+    margin-bottom:20px;
+
+}
+
+.subtitle{
+
+    font-size:20px;
+
+    margin-bottom:40px;
+
+}
+
+button{
+
+    background:#f59e0b;
+
+    color:white;
+
+    border:none;
+
+    padding:18px 45px;
+
+    font-size:22px;
+
+    border-radius:12px;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+}
+
+button:hover{
+
+    transform:scale(1.05);
+
+}
+
+.features{
+
+    margin-top:60px;
+
+    display:flex;
+
+    justify-content:space-between;
+
+    gap:20px;
+
+    flex-wrap:wrap;
+
+}
+
+.card{
+
+    background:white;
+
+    color:#222;
+
+    flex:1;
+
+    min-width:220px;
+
+    padding:25px;
+
+    border-radius:15px;
+
+    box-shadow:0 10px 20px rgba(0,0,0,.25);
+
+}
+
+.card h3{
+
+    margin:15px 0;
+
+}
+
+footer{
+
+    margin-top:50px;
+
+    opacity:.8;
+
+}
+.login-box{
+
+background:white;
+
+padding:40px;
+
+border-radius:20px;
+
+width:400px;
+
+text-align:center;
+
+color:black;
+
+box-shadow:0 20px 40px rgba(0,0,0,.3);
+
+}
+
+.login-box h1{
+
+margin-bottom:30px;
+
+color:#2563eb;
+
+font-size:35px;
+
+}
+
+.login-box input,
+.login-box select{
+
+width:100%;
+
+padding:15px;
+
+margin:10px 0;
+
+font-size:18px;
+
+border-radius:8px;
+
+border:1px solid #ccc;
+
+}
+
+.login-box button{
+
+margin-top:20px;
+
+width:100%;
+
+}
+
+/* ===============================
+   Anti-Cheating Styles
+   =============================== */
+
+.no-select{
+
+    user-select:none;
+
+    -webkit-user-select:none;
+
+    -ms-user-select:none;
+
+}
+
+.cheat-overlay{
+
+    display:none;
+
+    position:fixed;
+
+    top:0;left:0;right:0;bottom:0;
+
+    background:rgba(15,23,42,.92);
+
+    z-index:9999;
+
+    justify-content:center;
+
+    align-items:center;
+
+}
+
+.cheat-box{
+
+    background:white;
+
+    color:#1e293b;
+
+    padding:40px;
+
+    border-radius:16px;
+
+    max-width:420px;
+
+    text-align:center;
+
+    box-shadow:0 20px 40px rgba(0,0,0,.4);
+
+}
+
+.cheat-box h2{
+
+    color:#dc2626;
+
+    margin-bottom:15px;
+
+}
+
+.cheat-box button{
+
+    margin-top:15px;
+
+}
+
+@media print{
+
+    body{
+
+        display:none;
+
+    }
+
+}
+
+/* ===============================
+   Quiz Layout
+   =============================== */
+
+.quiz-header{
+
+    margin-bottom:20px;
+
+}
+
+#timer{
+
+    font-size:32px;
+
+    font-weight:600;
+
+    margin-bottom:6px;
+
+}
+
+#progress{
+
+    font-size:15px;
+
+    opacity:.85;
+
+    letter-spacing:.5px;
+
+}
+
+.quiz-layout{
+
+    display:flex;
+
+    gap:24px;
+
+    flex-wrap:wrap;
+
+    align-items:flex-start;
+
+}
+
+.quiz-card{
+
+    flex:2;
+
+    min-width:300px;
+
+    text-align:left;
+
+}
+
+.quiz-card #question{
+
+    font-size:22px;
+
+    line-height:1.5;
+
+    margin-bottom:20px;
+
+    text-align:left;
+
+}
+
+#options label{
+
+    display:block;
+
+    padding:6px 0;
+
+}
+
+/* ---- Action buttons (Previous / Next / Mark for Review / Submit) ---- */
+
+.quiz-actions{
+
+    margin-top:24px;
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:12px;
+
+}
+
+.quiz-actions-row{
+
+    display:flex;
+
+    gap:12px;
+
+}
+
+.quiz-actions-row button{
+
+    flex:1;
+
+    padding:14px 10px;
+
+    font-size:16px;
+
+    border-radius:10px;
+
+    white-space:nowrap;
+
+}
+
+.btn-outline{
+
+    background:white;
+
+    color:#1e293b;
+
+    border:2px solid #cbd5e1 !important;
+
+}
+
+.btn-outline:hover{
+
+    background:#f1f5f9;
+
+}
+
+.btn-secondary{
+
+    background:#f59e0b;
+
+    color:white;
+
+}
+
+.btn-submit{
+
+    background:#16a34a;
+
+    color:white;
+
+}
+
+/* ---- Question Navigator panel ---- */
+
+.nav-panel{
+
+    flex:1;
+
+    min-width:260px;
+
+    background:#f8fafc;
+
+    border-radius:14px;
+
+    padding:20px;
+
+    color:#1e293b;
+
+    box-shadow:0 8px 20px rgba(0,0,0,.15);
+
+}
+
+.nav-panel h3{
+
+    color:#1e293b;
+
+    font-size:17px;
+
+    font-weight:700;
+
+    margin-bottom:14px;
+
+}
+
+.navigator-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(6, 1fr);
+
+    gap:8px;
+
+    margin-bottom:16px;
+
+}
+
+.nav-btn{
+
+    width:100%;
+
+    aspect-ratio:1 / 1;
+
+    min-width:0;
+
+    padding:0 !important;
+
+    margin:0;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    border-radius:8px;
+
+    border:1px solid #cbd5e1;
+
+    cursor:pointer;
+
+    font-size:13px;
+
+    font-weight:600;
+
+    line-height:1;
+
+    transition:transform .15s;
+
+}
+
+.nav-btn:hover{
+
+    transform:scale(1.08);
+
+}
+
+.nav-answered{
+
+    background:#16a34a;
+
+    color:white;
+
+    border-color:#16a34a;
+
+}
+
+.nav-unanswered{
+
+    background:white;
+
+    color:#1e293b;
+
+    border-color:#cbd5e1;
+
+}
+
+.nav-marked{
+
+    background:#f59e0b;
+
+    color:white;
+
+    border-color:#f59e0b;
+
+}
+
+.nav-current{
+
+    background:#2563eb;
+
+    color:white;
+
+    border-color:#2563eb;
+
+    box-shadow:0 0 0 3px rgba(37,99,235,.35);
+}
+
+.nav-legend{
+
+    display:inline-block;
+
+    width:12px;
+
+    height:12px;
+
+    border-radius:3px;
+
+    vertical-align:middle;
+
+    margin-right:4px;
+
+}
+
+.nav-summary{
+
+    font-size:13px;
+
+    line-height:2;
+
+    color:#334155;
+
+}
+
+#timer.timer-warning{
+
+    color:#dc2626;
+
+    animation:pulse 1s infinite;
+
+}
+
+@keyframes pulse{
+
+    0%{opacity:1;}
+
+    50%{opacity:.4;}
+
+    100%{opacity:1;}
+
+}
+
+@media (max-width:640px){
+
+    .navigator-grid{
+
+        grid-template-columns:repeat(5, 1fr);
+
+    }
+
+    .quiz-actions-row button{
+
+        font-size:14px;
+
+        padding:12px 6px;
+
+    }
+
+}
+
+/* ===============================
+   Result / Review Screen
+   =============================== */
+
+.result-box{
+
+    max-width:700px;
+
+    text-align:left;
+
+}
+
+.review-card{
+
+    border-radius:10px;
+
+    padding:14px 16px;
+
+    margin:12px 0;
+
+    border-left:6px solid #94a3b8;
+
+    background:#f8fafc;
+
+}
+
+.review-correct{
+
+    border-left-color:#16a34a;
+
+    background:#f0fdf4;
+
+}
+
+.review-wrong{
+
+    border-left-color:#dc2626;
+
+    background:#fef2f2;
+
+}
+
+.review-unanswered{
+
+    border-left-color:#f59e0b;
+
+    background:#fffbeb;
+
+}
+
+.review-explanation{
+
+    color:#475569;
+
+    font-size:14px;
+
+}
+
+/* ===============================
+   Teacher Dashboard
+   =============================== */
+
+.dashboard-container{
+
+    max-width:1000px;
+
+}
+
+.dashboard-login{
+
+    display:flex;
+
+    gap:10px;
+
+    flex-wrap:wrap;
+
+    align-items:center;
+
+    max-width:100%;
+
+}
+
+.dashboard-login input,
+.dashboard-login select{
+
+    flex:1;
+
+    min-width:160px;
+
+}
+
+.dash-error{
+
+    color:#dc2626;
+
+    margin:10px 0;
+
+}
+
+.dash-summary-cards{
+
+    display:flex;
+
+    gap:16px;
+
+    flex-wrap:wrap;
+
+    margin:16px 0;
+
+}
+
+.dash-card{
+
+    background:#f1f5f9;
+
+    border-radius:12px;
+
+    padding:16px 24px;
+
+    text-align:center;
+
+    flex:1;
+
+    min-width:140px;
+
+}
+
+.dash-card h2{
+
+    margin:0;
+
+    color:#2563eb;
+
+}
+
+.dash-table{
+
+    width:100%;
+
+    border-collapse:collapse;
+
+    font-size:14px;
+
+    margin-top:10px;
+
+}
+
+.dash-table th,
+.dash-table td{
+
+    border:1px solid #e2e8f0;
+
+    padding:8px 10px;
+
+    text-align:left;
+
+}
+
+.dash-table th{
+
+    background:#f1f5f9;
+
+}
+
+.stat-row{
+
+    margin:10px 0;
+
+}
+
+.stat-label{
+
+    font-size:14px;
+
+    margin-bottom:4px;
+
+}
+
+.stat-bar-track{
+
+    background:#e2e8f0;
+
+    border-radius:6px;
+
+    position:relative;
+
+    height:24px;
+
+}
+
+.stat-bar-fill{
+
+    background:#dc2626;
+
+    height:100%;
+
+    border-radius:6px;
+
+}
+
+.stat-bar-count{
+
+    position:absolute;
+
+    left:8px;
+
+    top:2px;
+
+    font-size:12px;
+
+    color:#1e293b;
+
+}

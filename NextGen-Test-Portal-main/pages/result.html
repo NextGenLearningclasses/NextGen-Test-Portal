@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Test Result</title>
+
+    <link rel="stylesheet" href="../css/style.css">
+
+</head>
+
+<body>
+
+    <div class="login-box result-box">
+
+        <h1>🎉 Your Result</h1>
+
+        <div id="score">Calculating your result...</div>
+
+        <div id="reviewSection"></div>
+
+        <br>
+
+        <button id="homeBtn">Go to Home</button>
+
+    </div>
+
+    <script src="../data/config.js"></script>
+
+    <script src="../js/sheets.js"></script>
+
+    <script src="../js/result.js"></script>
+
+    <script>
+
+        document.getElementById("homeBtn").addEventListener("click", function () {
+
+            window.location.href = "../index.html";
+
+        });
+
+    </script>
+
+</body>
+
+</html>
