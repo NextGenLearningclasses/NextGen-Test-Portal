@@ -6,7 +6,7 @@
 //
 // Paste your deployed Web App URL below, replacing the placeholder.
 
-const SHEET_WEBAPP_URL = "PASTE_YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL_HERE";
+const SHEET_WEBAPP_URL = "https://script.google.com/macros/s/AKfycbzL9gP8vHsSYrFoJvD5VwAZ4FOK7WzOcARrnvZCL8vV4KonFZAN_8YN-BOfQRjSqVX_/exec";
 
 function isSheetConfigured() {
     return SHEET_WEBAPP_URL && SHEET_WEBAPP_URL.indexOf("PASTE_YOUR") === -1;
